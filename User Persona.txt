@@ -1,0 +1,45 @@
+
+USER DETAILS 1
+User Name: Mohan
+Age : 25
+Role : Software Developer
+Location : Banglore
+
+GOALS:
+He wants find solutions to regarding about Computer Sceince subjects.
+Time Reduce while learing about the subjects.
+
+HOBBIES:
+Writing tutorials about projects , Web Developement.
+
+FRUSTATIONS:
+While develop the project got issues frursted easily.
+
+TECHNOLOGY:
+Internet : 3 hours
+Using Softwares : 8 hours
+Mobile Apps : 2 hours
+
+
+
+USER DETAILS 2
+User NAME : KALYAN
+Age : 26
+Role : Student
+Location : Hyderbad
+
+GOAL:
+He wants to clarify doubts about programming languages.
+
+HOBBIES:
+Practising Programming and learning the new technologies.
+
+APPS:
+GFG
+Codecademy
+HackerRank
+LeetCode
+COdechef
+
+
+

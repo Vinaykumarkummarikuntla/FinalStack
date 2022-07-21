@@ -1,0 +1,20 @@
+﻿User Stories
+
+As a non logged in user, I should be able to see all questions and corresponding answers and comments.
+As a non logged in user, I should be able to see see profile of a user.
+As a non logged in user, I should be able to see register an account.
+As a non logged in user, I should be able to see login to the Stack Overflow.
+
+--
+
+As a logged in user, I should be able to see create a question.
+As a logged in user, I should be able to see upvote/downvote a question.
+As a logged in user, I should be able to see answer a question.
+As a logged in user, I should be able to see edit my profile.
+As a logged in user, I should be able to see search for questions.
+As a logged in user, I should be able to see search for users.
+As a logged in user, I should be able to see comment on a question or comment on an answer.
+----
+
+
+

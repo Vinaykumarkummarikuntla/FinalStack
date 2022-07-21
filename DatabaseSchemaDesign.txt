@@ -1,0 +1,34 @@
+Database Schema Design
+
+
+QUESTION TABLE
+User = Foriegnkey(user)
+Title = CharField
+Content = TextField
+tags = models.TextField(default=' ')
+Date = DateTimeField()
+
+COMMENT TABLE
+Answer = models.ForeignKey(Answer)
+user = models.ForeignKey(User, related_name='comment_user')
+comment = models.TextField(default=' ')
+add_time = models.DateTimeField()
+
+ANSWER TABLE
+question = models.ForeignKey(Question)
+user = models.ForeignKey(User)
+detail = models.TextField()
+add_time = models.DateTimeField()
+
+UPVOTE TABLE
+answer = models.ForeignKey(Answer)
+user = models.ForeignKey(User, related_name='upvote_user')
+
+DOWNVOTE TABLE
+answer = models.ForeignKey(Answer)
+user = models.ForeignKey(User, related_name='downvote_user')
+
+
+
+
+
